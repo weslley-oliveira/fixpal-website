@@ -6,18 +6,18 @@ import { NextSeo } from "next-seo";
 
 export default function Home() {
   return (
-    <div className="text-black">
+    <div className="text-black bg-blue-500">
       <NextSeo
-        title="Home: nine4"
-        description="Welcome to nine4 homepage."
-        canonical="https://nine4-2.vercel.app/"
+        title="Home: fixpal"
+        description="Welcome to fixpal homepage."
+        canonical="https://fixpal.co.uk"
         openGraph={{
-          url: "https://nine4-2.vercel.app/",
+          url: "https://fixpal.co.uk",
         }}
       />
       <Head>
-        <title>nine4</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Fixpal - Home Repairs</title>
+        <link rel="icon" href="/vercel.svg" />
       </Head>
       <Header />
       <Main />

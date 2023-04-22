@@ -11,9 +11,11 @@ export default function Header() {
             href="/"
             className="text-lg font-semibold rounded-lg tracking-widest focus:outline-none focus:shadow-outline"
           >
-            <h1 className="text-4xl Avenir tracking-tighter text-gray-900 md:text-4x1 lg:text-3xl">
-              NINE4
-            </h1>
+            <img
+            className="w-32 md:ml-1"
+            alt="Logo Fixpal"
+            src="/images/logo-no-background.png"
+          ></img>
           </a>
           <button
             className="text-white cursor-pointer leading-none px-3 py-1 md:hidden outline-none focus:outline-none "
@@ -68,7 +70,7 @@ export default function Header() {
                   className="inline-flex items-center px-4 py-2 mt-2 font-medium text-white transition duration-500 ease-in-out transform bg-transparent rounded-lg text-md md:mt-0 md:ml-4 bg-gray-900"
                   href="/"
                 >
-                  <span className="justify-center">Download</span>
+                  <span className="justify-center">Get a quote</span>
                   <svg
                     className="w-3 h-3 fill-current text-gray-400 flex ml-2 -mr-1"
                     viewBox="0 0 12 12"
