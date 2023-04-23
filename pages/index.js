@@ -26,7 +26,7 @@ export default function Home() {
         }}
       />
       <Head>
-        <title>Fixpal - Home Repairs</title>
+        <title>FIXPAL - Home Repairs</title>
         <link rel="icon" href="/vercel.svg" />
       </Head>
       <Header />
