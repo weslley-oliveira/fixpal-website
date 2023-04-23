@@ -17,7 +17,7 @@ export default function Home() {
           description: 'Fixing your home, fixing your day',
           images: [
             {
-              url: 'https://www.fixpal.co.uk/images/logo-no-background.png',
+              url: 'https://www.fixpal.co.uk/images/logo.svg',
               width: 800,
               height: 600,
               alt: 'FIXPAL',
