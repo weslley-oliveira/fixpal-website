@@ -28,11 +28,11 @@ export default function Main() {
             </a>
           </div>
         </div>
-        <div className="xl:mr-44 sm:mr-0 sm:mb-28 mb-0 lg:mb-0 mr-48 md:pl-10">
+        <div className="">
           <img
-            className="w-80 md:ml-1"
+            className="md:-mt-32 md:ml-1"
             alt="Logo Fixpal"
-            src="/images/logo-no-background.png"
+            src="/images/services.png"
           ></img>
         </div>
       </div>
