@@ -54,7 +54,7 @@ export default function Header() {
                   href="/"
                   className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out"
                 >
-                  Careers
+                  Our services
                 </a>
               </li>
               <li>
