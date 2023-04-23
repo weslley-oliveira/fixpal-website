@@ -8,11 +8,21 @@ export default function Home() {
   return (
     <div className="text-black">
       <NextSeo
-        title="Home: fixpal"
-        description="Welcome to fixpal homepage."
-        canonical="https://fixpal.co.uk"
+        title="FIXPAL"
+        description="Fixing your home, fixing your day"
+        canonical="https://www.fixpal.co.uk"
         openGraph={{
-          url: "https://fixpal.co.uk",
+          url: 'https://www.fixpal.co.uk',
+          title: 'FIXPAL',
+          description: 'Fixing your home, fixing your day',
+          images: [
+            {
+              url: 'https://www.fixpal.co.uk/images/logo-no-background.png',
+              width: 800,
+              height: 600,
+              alt: 'FIXPAL',
+            },
+          ],
         }}
       />
       <Head>
