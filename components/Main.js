@@ -1,12 +1,12 @@
 export default function Main() {
   return (
-    <section className="text-white body-font">
+    <section className="body-font">
       <div className="max-w-7xl mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 md:ml-24 pt-6 flex flex-col md:items-start md:text-left mb-40 items-center text-center">
           <h1 className="mb-5 sm:text-6xl text-5xl items-center Avenir xl:w-2/2 text-gray-900">
             Your Go-To Home Repair Solution
           </h1>
-          <p className="mb-4 xl:w-3/4 text-white text-lg">
+          <p className="mb-4 xl:w-3/4 text-lg">
             Say goodbye to repair headaches with our fast, reliable, and professional services. Schedule your repair service today!
           </p>
           <div className="flex justify-center">

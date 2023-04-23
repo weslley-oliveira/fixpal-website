@@ -6,7 +6,7 @@ import { NextSeo } from "next-seo";
 
 export default function Home() {
   return (
-    <div className="text-black bg-blue-500">
+    <div className="text-black">
       <NextSeo
         title="Home: fixpal"
         description="Welcome to fixpal homepage."
